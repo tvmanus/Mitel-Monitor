@@ -1,0 +1,11 @@
+<config>
+<LocalIP>192.168.1.3</LocalIP>
+<MiTAILog>C:\</MiTAILog>
+
+<PBX ip="172.20.100.14">
+	<trunk num="101"/>
+	<trunk num="102"/>
+	<trunk num="103"/>
+</PBX>
+
+</config>
